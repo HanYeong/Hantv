@@ -1,0 +1,7 @@
+127.0.0.1 - - [12/Dec/2019:16:54:31 +0900] "GET / HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:16:54:32 +0900] "GET /JSP_Han/login.jsp HTTP/1.1" 200 5608
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:16:54:33 +0900] "GET /favicon.ico HTTP/1.1" 404 761
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:17:21:00 +0900] "POST /JSP_Han/idcheck.jsp HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:17:56:50 +0900] "GET /JSP_Han/login.jsp HTTP/1.1" 200 5608
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:18:42:56 +0900] "GET /JSP_Han/createaccount.jsp HTTP/1.1" 200 8232
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:18:42:56 +0900] "GET /JSP_Han/resources/imgs/account_person.png HTTP/1.1" 200 1511

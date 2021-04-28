@@ -1,0 +1,24 @@
+
+12월 01, 2019 17:29:24.30 NEW SESSION
+12월 01, 2019 17:29:24.30 [26812:20504:1201/172924.295:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:25.60 [26812:20504:1201/172925.599:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:27.25 [26812:20504:1201/172927.255:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:30.13 [26812:20504:1201/172930.137:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:31.37 [26812:20504:1201/172931.371:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:32.40 [26812:20504:1201/172932.407:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:35.40 [26812:20504:1201/172935.402:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:36.54 [26812:20504:1201/172936.549:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:39.74 [26812:20504:1201/172939.746:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:43.90 [26812:20504:1201/172943.909:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:48.50 [26812:20504:1201/172948.505:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:52.52 [26812:20504:1201/172952.529:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:54.49 [26812:20504:1201/172954.499:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:29:59.44 [26812:20504:1201/172959.442:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:30:03.67 [26812:20504:1201/173003.673:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+12월 01, 2019 17:30:08.39 [26812:20504:1201/173008.389:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.933 s for first_image_paint 0.906 s
+
+12월 03, 2019 24:07:30.02 NEW SESSION
+12월 03, 2019 24:07:30.02 [24628:7500:1203/000730.013:ERROR:CONSOLE(794)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://www.naver.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (794)
+
+1월 18, 2020 15:57:27.40 NEW SESSION
+1월 18, 2020 15:57:27.40 [9112:13056:0118/155727.395:ERROR:socket_stream.cc(218)] Closing stream with result -2

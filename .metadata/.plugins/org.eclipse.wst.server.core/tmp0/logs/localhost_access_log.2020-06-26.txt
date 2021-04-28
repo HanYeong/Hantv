@@ -1,0 +1,4 @@
+127.0.0.1 - - [26/Jun/2020:23:40:12 +0900] "GET / HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [26/Jun/2020:23:40:13 +0900] "GET /JSP_Han/createaccount.jsp HTTP/1.1" 200 8232
+0:0:0:0:0:0:0:1 - - [26/Jun/2020:23:40:13 +0900] "GET /JSP_Han/resources/imgs/account_person.png HTTP/1.1" 200 1511
+0:0:0:0:0:0:0:1 - - [26/Jun/2020:23:40:13 +0900] "GET /favicon.ico HTTP/1.1" 404 761
